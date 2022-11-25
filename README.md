@@ -4,7 +4,7 @@
 Created project file and README file on November 25, 2022
 
 ### Project Title
-Bikesharing data in DC, NY, and IL
+Bikesharing data in cities located in DC, NY, and IL
 
 ### Description
 This project utilizes python in an app format to allow users to rent shared bikes in Chicago, Washington, and New York City. They are able to plan their trips and get information about normal trip lengths. They can plan their rides with where the starting location as well as the end location.
